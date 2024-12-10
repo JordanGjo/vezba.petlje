@@ -1,4 +1,4 @@
-time.
+import time
 pocetna_pozicija = 0
 cilj = 50
 
